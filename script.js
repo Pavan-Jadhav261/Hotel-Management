@@ -4,7 +4,7 @@ let menuList = [
       {dishName:"CAESAR SALAD", description:" Crisp romaine lettuce tossed with Caesar dressing, parmesan cheese, and crunchy croutons.",img:"./images/caesarSalad.jpg",vegiterian:true},
       {dishName:"MARGHERITA PIZZA", description:" Classic pizza topped with tomato sauce, mozzarella cheese, and fresh basil leaves",img:"./images/margiritaPizza.jpg",vegiterian:true},
 {dishName:"CHANA MASALA", description:"Chana Masala is a tangy and spicy chickpea curry popular in North India.", img:"./images/Easy-Chana-Masala-Recipe-8.jpg", vegiterian:true},
-{dishName:"PANEER TIKKA", description:"Paneer Tikka is a smoky grilled dish made with marinated paneer cubes and spices.", img:"../images/Paneer-Tikka-Indian-Appetizer-400x606.webp", vegiterian:true},
+{dishName:"PANEER TIKKA", description:"Paneer Tikka is a smoky grilled dish made with marinated paneer cubes and spices.", img:"./images/Paneer-Tikka-Indian-Appetizer-400x606.webp", vegiterian:true},
 {dishName:"MUTTON ROGAN JOSH", description:"A flavorful Kashmiri curry made with tender mutton and aromatic spices.", img:"./images/muttonrogan.jpg", vegiterian:false},
 {dishName:"VEG BIRYANI", description:"Veg Biryani is a fragrant rice dish cooked with mixed vegetables and exotic spices.", img:"./images/Vegetable-Biryani-Restaurant-Style.webp", vegiterian:true},
 {dishName:"MASALA DOSA", description:"A crispy South Indian crepe filled with spiced mashed potatoes.", img:"./images/crispy-masala-dosa-indian-food-4zixiqaarbeupwuy.jpg", vegiterian:true},
